@@ -21,7 +21,7 @@ class Compare
 	
 }
 
-public class exp2
+public class Lab11
 {
 	public static void main(String[] args)
 	{
